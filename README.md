@@ -1,4 +1,6 @@
 # Es es una prueba de FORK.
  Es esta prueba ha participado:
 - Nacho
-- -Ibai Santamaria
+- Héctor García
+- Gaizka Sanz
+- Ibai Santamaria
