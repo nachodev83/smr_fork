@@ -1,4 +1,7 @@
 # Es es una prueba de FORK.
  Es esta prueba ha participado:
 - Nacho
--Teo Álvarez
+- Héctor García
+- Gaizka Sanz
+- Ibai Santamaria
+- Teo Álvarez
