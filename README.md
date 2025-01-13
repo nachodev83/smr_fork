@@ -4,3 +4,4 @@
 - Héctor García
 - Gaizka Sanz
 - Ibai Santamaria
+- Teo Álvarez
